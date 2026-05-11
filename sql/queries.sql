@@ -1,6 +1,6 @@
 -- =============================================
 -- OLIST E-COMMERCE — SQL ANALYSIS
--- Author: [Your Name]
+-- Author: [Duaa Suqaina]
 -- Date: May 2026
 -- Database: olist.db (SQLite)
 -- Description: Business analysis of 100,000+
